@@ -1,4 +1,5 @@
 #+TITLE: Eigenvalue Configurations
+Algorithms to compute quantifier-free conditions on the entries of real symmetric matrices F and G so that their eigenvalues are arranged in a given way. See [1], [2].
 
 ** Usage
 
@@ -12,7 +13,7 @@
 #+end_src
 
 ** References
-Hong, Hoon, Daniel Profili, and J. Rafael Sendra. "Conditions for eigenvalue configurations of two real symmetric matrices (symmetric polynomial approach)." [[https://arxiv.org/abs/2401.00089][arXiv preprint arXiv:2401.00089]] (2026).
+1. Hong, Hoon, Daniel Profili, and J. Rafael Sendra. "Conditions for eigenvalue configurations of two real symmetric matrices (symmetric polynomial approach)." [[https://arxiv.org/abs/2401.00089][arXiv preprint arXiv:2401.00089]] (2026).
 
-Hong, Hoon, Daniel Profili, and J. Rafael Sendra. "Conditions for eigenvalue configurations of two real symmetric matrices (signature approach)." [[https://arxiv.org/abs/2401.00866][arXiv preprint arXiv:2401.00089]] (2026).
+2. Hong, Hoon, Daniel Profili, and J. Rafael Sendra. "Conditions for eigenvalue configurations of two real symmetric matrices (signature approach)." [[https://arxiv.org/abs/2401.00866][arXiv preprint arXiv:2401.00089]] (2026).
 
