@@ -1,8 +1,17 @@
 #+TITLE: Eigenvalue Configurations
 
-* Usage
+** Usage
 
-* References
+*** Maple
+#+begin_src maple
+  with(EC.mpl):
+  F := DiagonalMatrix([0,1]):
+  G := DiagonalMatrix([0,2]):
+  Csig, Asig := ConditionsSig(F,G);
+  Csym, Asym := ConditionsSym(F,G);
+#+end_src
+
+** References
 Hong, Hoon, Daniel Profili, and J. Rafael Sendra. "Conditions for eigenvalue configurations of two real symmetric matrices (symmetric polynomial approach)." [[https://arxiv.org/abs/2401.00089][arXiv preprint arXiv:2401.00089]] (2026).
 
 Hong, Hoon, Daniel Profili, and J. Rafael Sendra. "Conditions for eigenvalue configurations of two real symmetric matrices (signature approach)." [[https://arxiv.org/abs/2401.00866][arXiv preprint arXiv:2401.00089]] (2026).
