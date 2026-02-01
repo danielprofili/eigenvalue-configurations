@@ -2,10 +2,9 @@
 Algorithms to compute quantifier-free conditions on the entries of real symmetric matrices F and G so that their eigenvalues are arranged in a given way. See [1], [2].
 
 ** Usage
-
 *** Maple
 #+begin_src maple
-  with(EC.mpl):
+  with("EC.mpl"):
   F := DiagonalMatrix([0,1]):
   G := DiagonalMatrix([0,2]):
   Csig, Asig := ConditionsSig(F,G);
