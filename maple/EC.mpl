@@ -1,5 +1,7 @@
 with(LinearAlgebra):
 with(combinat):
+with(Iterator):
+with(ListTools):
 
 svp := proc(f,v)   
 # Sign Variation of Polynomial
