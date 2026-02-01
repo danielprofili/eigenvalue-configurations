@@ -1,3 +1,9 @@
 #+TITLE: Eigenvalue Configurations
 
 * Usage
+
+* References
+Hong, Hoon, Daniel Profili, and J. Rafael Sendra. "Conditions for eigenvalue configurations of two real symmetric matrices (symmetric polynomial approach)." [[https://arxiv.org/abs/2401.00089][arXiv preprint arXiv:2401.00089]] (2026).
+
+Hong, Hoon, Daniel Profili, and J. Rafael Sendra. "Conditions for eigenvalue configurations of two real symmetric matrices (signature approach)." [[https://arxiv.org/abs/2401.00866][arXiv preprint arXiv:2401.00089]] (2026).
+
