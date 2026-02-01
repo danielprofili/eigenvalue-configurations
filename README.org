@@ -1,7 +1,7 @@
 #+TITLE: Eigenvalue Configurations
 Algorithms to compute quantifier-free conditions on the entries of real symmetric matrices F and G so that their eigenvalues are arranged in a given way. See [1], [2].
 
-Maple code is available now. Python implementation coming soon!
+[[https://www.maplesoft.com/products/Maple/][Maple]] code is available now. Python implementation coming soon!
 
 ** Usage
 *** Maple
